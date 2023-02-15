@@ -15,4 +15,9 @@
 
 2  Chain of Responsibility --> Aplicado no calculo de descontos. Esse pattern é usado comumente para evitar a necessidade de criar vários ifs com diferentes regras de negócio/resposabilidades. 
 
+<br>
+<br>
+
+3  Template Met --> Aplicado no calculo de descontos. Esse pattern é usado comumente para favorecer o reaproveitamento de códigos comuns entre classes, evitando assim duplicações de códigos.
+
 
